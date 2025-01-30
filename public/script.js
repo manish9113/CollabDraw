@@ -4,7 +4,7 @@ canvas.width = 0.98 * window.innerWidth;
 canvas.height = window.innerHeight;
 
 
-var io = io.connect('https://collabdraw.onrender.com/')
+var io = io.connect(window.location.origin)
 
 let context = canvas.getContext('2d');
 
