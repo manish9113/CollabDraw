@@ -24,7 +24,7 @@
 - **Deployment:** Render
 
 - ## 1️⃣ Clone the Repository  
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/manish9113/CollabDraw.git
 cd repo-name
 
 2️⃣ Install Dependencies
