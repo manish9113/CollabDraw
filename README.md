@@ -24,11 +24,12 @@
 - **Deployment:** Render
 
 - ## 1️⃣ Clone the Repository  
-git clone https://github.com/manish9113/CollabDraw.git
-cd repo-name
+  git clone https://github.com/manish9113/CollabDraw.git
+  cd repo-name
 
 2️⃣ Install Dependencies
-npm install
+
+ npm install
 3️⃣ Start the Server
-npm start
+ npm start
 
